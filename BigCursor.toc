@@ -1,7 +1,7 @@
 ## Interface: 11200
 ## Title: BigCursor
 ## Notes: Standalone resizable cursor for Azeroth Survivors
-## Author: ChatGPT / Jamie
+## Author: JamieLinux
 ## Version: 0.3.4
 ## SavedVariables: BigCursorDB
 BigCursor.lua
